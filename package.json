@@ -1,0 +1,7 @@
+{
+  "name": "screen-balance",
+  "version": "1.0.0",
+  "description": "Bilingual (Arabic/English) school health-education tool about screen time, sleep and attention.",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
